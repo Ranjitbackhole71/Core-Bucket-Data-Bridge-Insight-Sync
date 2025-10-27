@@ -161,3 +161,6 @@ temp/
 
 # Project specific
 land_utilization_project.zip
+
+# Ignore the project directory as it contains its own git repository
+project/
